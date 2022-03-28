@@ -7,7 +7,7 @@ Module 2 VBA Challenge
 ## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 ### The results of this analysis is that the overall stock portfolio did better in year 2017 than it did in 2018. Stock ticker DQ had the highest Return percentage in 2017 with 199.4% but had the worst Return percentage in 2018 with -62.6%. Our code can now account for any new years going forward should we inout the data in sepereate wokseets for that year. it may be helpful to analyze these stocks for other years to get a more clear view of performance history.
 ### The refactored code also produced much faster execution times for the analysis. Both years took about the same amount of execution time.
-### ![]()
+### ![](VBA_Challenge/Resouces/VBA_Challenge_2017.PNG)
 ---
 ## Summary: In a summary statement, address the following questions
 
